@@ -3,7 +3,7 @@
 ### Hi there, I'm Nanda 👋 
 
 I am someone who likes exploring new things. 
-I am a newbie android developer and also interested in becoming a full-stack developer ^^
+I am a newbie programmer and interested in android development ^^
 
 Want to know more about me? 
 
