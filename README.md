@@ -6,7 +6,8 @@ I am someone who likes exploring things.
 I am a long life learner and interested in android development ^^
 
 Want to know more about me? 
-<a href="http://nandaiqbalh.herokuapp.com/" target="blank"><img align="center" src="https://i.ibb.co/LC30k5D/website.jpgg" alt="website-nandaiqbalh" height="30" width="40" /></a>
+
+<a href="http://nandaiqbalh.herokuapp.com/" target="blank"><img align="center" src="https://i.ibb.co/RPkmsqk/website.png" alt="website-nandaiqbalh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-nandaiqbalh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nandaiqbalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-nandaiqbalh" height="30" width="40" /></a>
 
