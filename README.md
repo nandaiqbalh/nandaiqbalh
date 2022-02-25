@@ -3,7 +3,7 @@
 ### Hi there, I'm Nanda 👋 
 
 I am someone who likes exploring things. 
-I am a long life learner and interested in android development ^^
+I am a long life learner and interested in android development and web development^^
 
 Want to know more about me? 
 
