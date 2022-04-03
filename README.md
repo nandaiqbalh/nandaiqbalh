@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Nanda 👋 
 
-I am someone who likes exploring things. 
-I am a long life learner and interested in android development and web development^^
+A Software Development Enthusiast who likes to explore new things || Lifelong Learner ^^
 
 Want to know more about me? 
 
