@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nanda 👋 
 
-A Software Development Enthusiast who likes to explore new things || Lifelong Learner ^^
+A Software Development Enthusiast who likes to explore things || Lifelong Learner ^^
 
 Want to know more about me? 
 
