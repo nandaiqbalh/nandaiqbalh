@@ -17,11 +17,12 @@ Want to know more about me?
 <div align=center>
 <!-- <a href="https://github.com/nandaiqbalh">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaiqbalh&hide=html,css&title_color=e3be7a&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
-</a> -->
+</a> 
   <div style="margin-bottom : 10px"></div>
 <a href="https://github.com/nandaiqbalh">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nanda Github Stats" />
 </a>
+-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
