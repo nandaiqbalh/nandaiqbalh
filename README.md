@@ -22,11 +22,11 @@ Want to know more about me?
 <a href="https://github.com/nandaiqbalh">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nanda Github Stats" />
 </a>
--->
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
-
+-->
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
