@@ -11,7 +11,7 @@ Want to know more about me?
 <a href="https://www.instagram.com/nandaiqbalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-nandaiqbalh" height="30" width="40" /></a>
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
 <br>
 <div align=center>
