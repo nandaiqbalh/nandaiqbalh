@@ -29,3 +29,8 @@ I am a lifelong learner with a passion for exploration and continuous growth. I 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nandaiqbalhanafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
+### Stats
+<a href="https://github.com/nandaiqbalh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nanda Github Stats" />
+</a>
