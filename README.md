@@ -1,37 +1,39 @@
-![](https://komarev.com/ghpvc/?username=nandaiqbalh)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanda Iqbal Hanafi
+=============================================================================================================================================
 
-### Hi there, I'm Nanda 👋 
+Android Developer
+----------------------------------
 
 I am a lifelong learner with a passion for exploration and continuous growth. I have 2 years of experience in developing Android applications using Kotlin. During my studies, I have been active in various organizations and competitions, including winning the 2024 Indonesian Student Business Competition in Probolinggo with the business idea of the Kanca-UMKM application. I have explored Android application development using the MVVM architecture with Kotlin and have created more than 10 applications for my portfolio.
 
-Want to know more about me? 
-
-<a href="http://nandaiqbalh.herokuapp.com/" target="blank"><img align="center" src="https://i.ibb.co/RPkmsqk/website.png" alt="website-nandaiqbalh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nanda-iqbal-hanafi-b2a4031bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-nandaiqbalh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nandaiqbalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-nandaiqbalh" height="30" width="40" /></a>
-
-
-<!-- ## &#x1f4c8; GitHub Stats -->
-
-<br>
-<div align=center>
-
-  <div style="margin-bottom : 10px"></div>
-<a href="https://github.com/nandaiqbalh">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nanda Github Stats" />
-</a>
+* 🙌  Connect with me at [LinkedIn](https://www.linkedin.com/in/nandaiqbalhanafi/)
+* 🖥️  See my portfolio at [portfolio](https://bit.ly/nanda-s-project-portfolio)
+* ✉️  You can contact me at [nandaiqbalhanafii@gmail.com](nandaiqbalhanafii@gmail.com)
+* 🧠  I'm learning Kotlin
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### Skills
 
-</div>
 
-## 💼 Skills
+<p align="left">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jetpackcompose-colored.svg" width="36" height="36" alt="Jetpack Compose" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-## Have a great day!!
+### Socials
 
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/nandaiqbalhanafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/nandaiqbalh"><img src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaffalhakim1's GitHub stats" /></a>
+
+/></a>
