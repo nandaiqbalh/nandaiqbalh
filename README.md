@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nanda 👋 
 
-A Software Development Enthusiast who likes to explore things || Lifelong Learner ^^
+I am a lifelong learner with a passion for exploration and continuous growth. I have 2 years of experience in developing Android applications using Kotlin. During my studies, I have been active in various organizations and competitions, including winning the 2024 Indonesian Student Business Competition in Probolinggo with the business idea of the Kanca-UMKM application. I have explored Android application development using the MVVM architecture with Kotlin and have created more than 10 applications for my portfolio.
 
 Want to know more about me? 
 
@@ -15,7 +15,7 @@ Want to know more about me?
 
 <br>
 <div align=center>
-<!-- <a href="https://github.com/nandaiqbalh">
+<a href="https://github.com/nandaiqbalh">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaiqbalh&hide=html,css&title_color=e3be7a&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a> 
   <div style="margin-bottom : 10px"></div>
@@ -24,7 +24,7 @@ Want to know more about me?
 </a>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
