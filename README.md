@@ -18,7 +18,6 @@ I am a lifelong learner with a passion for exploration and continuous growth. I 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jetpackcompose-colored.svg" width="36" height="36" alt="Jetpack Compose" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -28,12 +27,12 @@ I am a lifelong learner with a passion for exploration and continuous growth. I 
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/nandaiqbalhanafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nandaiqbalh"><img src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaffalhakim1's GitHub stats" /></a>
+<a href="http://www.github.com/nandaiqbalh"><img src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nanda's GitHub stats" /></a>
 
-/></a>
+</a>
