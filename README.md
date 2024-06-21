@@ -27,12 +27,5 @@ I am a lifelong learner with a passion for exploration and continuous growth. I 
 ### Socials
 
 <p align="left"> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandaiqbalh&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/nandaiqbalhanafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nandaiqbalh"><img src="https://github-readme-stats.vercel.app/api?username=nandaiqbalh&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nanda's GitHub stats" /></a>
-
-</a>
