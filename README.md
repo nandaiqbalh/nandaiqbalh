@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 ----------------------------------
 
-I am a lifelong learner with a passion for exploration and continuous growth. I have 2 years of experience in developing Android applications using Kotlin. During my studies, I have been active in various organizations and competitions, including winning the 2024 Indonesian Student Business Competition in Probolinggo with the business idea of the Kanca-UMKM application. I have explored Android application development using the MVVM architecture with Kotlin and have created more than 10 applications for my portfolio.
+I am a lifelong learner with a passion for exploration and continuous growth. I have 2 years of experience in developing Android applications using Kotlin and Kotlin Multiplatform.
 
 * 🙌  Connect with me at [LinkedIn](https://www.linkedin.com/in/nandaiqbalhanafi/)
-* 🖥️  See my portfolio at [portfolio](https://bit.ly/nanda-s-project-portfolio)
 * ✉️  You can contact me at [nandaiqbalhanafii@gmail.com](nandaiqbalhanafii@gmail.com)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning Kotlin Multiplatform
 
 
 ### Skills
