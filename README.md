@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 ----------------------------------
 
-I am a lifelong learner with a passion for exploration and continuous growth. I have 2 years of experience in developing Android applications using Kotlin and Kotlin Multiplatform.
-
+I am a lifelong learner with a passion for exploration and continuous growth.
 * 🙌  Connect with me at [LinkedIn](https://www.linkedin.com/in/nandaiqbalhanafi/)
 * ✉️  You can contact me at [nandaiqbalhanafii@gmail.com](nandaiqbalhanafii@gmail.com)
-* 🧠  I'm learning Kotlin Multiplatform
+* 🧠  I'm learning Kotlin Multiplatform and Next.js
 
 
 ### Skills
