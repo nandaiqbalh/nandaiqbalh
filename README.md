@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanda Iqbal Hanafi
 =============================================================================================================================================
 
-Android Developer
+Full-Stack Developer
 ----------------------------------
 
 I am a lifelong learner with a passion for exploration and continuous growth.
